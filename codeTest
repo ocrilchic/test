@@ -6,6 +6,6 @@ int main()
  scanf("%f", &y)
 
  y=pow(x,2)+3;
- printf("otvet %f\n", y);
+ printf("otvet %f\n", y*2);
 return (0);
 } 
